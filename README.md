@@ -757,7 +757,7 @@ border:2px solid white;
 
 ![Screenshot 2024-04-28 211345](https://github.com/keerthanasivakumar02/softweb/assets/150827397/2cdafe18-54c7-4604-bc14-31dfe20cfe74)
 
-![Screenshot 2024-04-28 211407](https://github.com/keerthanasivakumar02/softweb/assets/150827397/ec635f07-78f6-45ca-b2e9-1fd7977787de)
+![Screenshot 2024-04-28 213246](https://github.com/keerthanasivakumar02/softweb/assets/150827397/6c00104f-c311-4bf7-bdcb-d19187760668)
 
 
 ## RESULT:
